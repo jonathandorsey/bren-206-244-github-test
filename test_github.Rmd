@@ -7,17 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: 
+Type your name (or anything else) HERE: Jonathan Dorsey
 
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+yellow <- 7
 
-red <- 15
+black <- 8
 
-purple <- blue/red
+brown <- black/yellow
 
 ```
 
@@ -25,4 +25,4 @@ After making minimal changes, SAVE this .Rmd (default will be to the project fol
 
 Notice that if you click on the 'Git' tab (up by the Environment tab), now your newly created Project (.Rproj) and updated .Rmd are there (along with, probably, a gitignore file that you don't really need to worry about).
 
-Stage, commit, and push your updates back to github (see the step-by-step document).
+Stage, commit, and push your updates back to github (see the step-by-step document). 
